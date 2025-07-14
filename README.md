@@ -1,8 +1,3 @@
-# 📝 Emoji Sentiment Translator
-
-A unique AI app built with Streamlit that translates text into emojis and shows sentiment score using TextBlob.
-
-## 🚀 How to run locally
-```bash
-pip install -r requirements.txt
-python -m streamlit run app.py
+# My Emoji Sentiment Translator / emoji-sentiment-translator
+A fun Streamlit app to detect sentiment and show emoji.
+This is the README created by GitHub.
